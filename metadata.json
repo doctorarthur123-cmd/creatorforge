@@ -1,0 +1,6 @@
+{
+  "name": "CreatorTools Hub",
+  "description": "Free, modern YouTube creator tools including AI title generator, tags generator, description writer, and thumbnail downloader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
